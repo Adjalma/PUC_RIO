@@ -115,9 +115,10 @@ Otimizar código existente
 📄 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 📞 Contato
-Autor: [Seu Nome]
-Email: [seu.email@exemplo.com]
-LinkedIn: linkedin.com/in/seu-perfil
+Autor: Adjalma Machado Aguiar Junior
+Email: adjalma.aguiar@icloud.com
+LinkedIn: www.linkedin.com/in/adjalma-aguiar
+
 🙏 Agradecimentos
 
 UCI Machine Learning Repository pelos datasets
